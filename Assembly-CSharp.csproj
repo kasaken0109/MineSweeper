@@ -67,6 +67,7 @@
     <Compile Include="Assets\AirPlanecontroller.cs" />
     <Compile Include="Assets\CameraController.cs" />
     <Compile Include="Assets\DeadZoneController.cs" />
+    <Compile Include="Assets\SceneLoader.cs" />
     <Compile Include="Assets\Scenes\CameraEffecter.cs" />
     <Compile Include="Assets\Scenes\Prefab\CellSetController.cs" />
     <Compile Include="Assets\Scenes\Script\Cell.cs" />
