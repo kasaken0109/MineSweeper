@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TitleScene.unity
+    guid: 2653a717c86ecf247ad2bf23e3df379f
+  - enabled: 1
+    path: Assets/Scenes/MineSweeper.unity
+    guid: aa8aa2289202b3149840c05d5523e8ad
   m_configObjects: {}
