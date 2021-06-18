@@ -63,18 +63,22 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\AirPlaneManager.cs" />
-    <Compile Include="Assets\AirPlanecontroller.cs" />
-    <Compile Include="Assets\CameraController.cs" />
-    <Compile Include="Assets\DeadZoneController.cs" />
-    <Compile Include="Assets\SceneLoader.cs" />
-    <Compile Include="Assets\Scenes\CameraEffecter.cs" />
-    <Compile Include="Assets\Scenes\Prefab\CellSetController.cs" />
-    <Compile Include="Assets\Scenes\Script\Cell.cs" />
-    <Compile Include="Assets\Scenes\Script\NewBehaviourScript.cs" />
-    <Compile Include="Assets\Scenes\SkyBoxController.cs" />
-    <Compile Include="Assets\Scenes\TestManager.cs" />
-    <Compile Include="Assets\TestTest.cs" />
+    <Compile Include="Assets\PlaneAnimation.cs" />
+    <Compile Include="Assets\Script\AirPlaneManager.cs" />
+    <Compile Include="Assets\Script\AirPlanecontroller.cs" />
+    <Compile Include="Assets\Script\CameraController.cs" />
+    <Compile Include="Assets\Script\CameraEffecter.cs" />
+    <Compile Include="Assets\Script\Cell.cs" />
+    <Compile Include="Assets\Script\CellSetController.cs" />
+    <Compile Include="Assets\Script\CursorManager.cs" />
+    <Compile Include="Assets\Script\DeadZoneController.cs" />
+    <Compile Include="Assets\Script\NewBehaviourScript.cs" />
+    <Compile Include="Assets\Script\SceneLoader.cs" />
+    <Compile Include="Assets\Script\SkyBoxController.cs" />
+    <Compile Include="Assets\Script\TestManager.cs" />
+    <Compile Include="Assets\Script\TestTest.cs" />
+    <Compile Include="Assets\Script\TitlePlane.cs" />
+    <Compile Include="Assets\SoundManager.cs" />
     <None Include="Assets\TGU Skybox Pack\Readme.txt" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
