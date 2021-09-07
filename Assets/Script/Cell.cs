@@ -23,7 +23,7 @@ public class Cell : MonoBehaviour
     public bool _bombFlag = false;
     bool _IsInputActive = false;
     public bool _IsBomb;
-    //public bool _IsCovered = true;
+    public bool _IsCovered = true;
 
     public CellState CellState
     {
